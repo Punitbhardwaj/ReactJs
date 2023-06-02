@@ -2,3 +2,23 @@ React, why React?
 React features?
 React lifecycles?
 React is a library or tool?
+What is React and how does it differ from other JavaScript frameworks?
+Explain the concept of virtual DOM in React.
+What are the key features of React?
+What is JSX in React? How does it differ from regular HTML?
+What are the differences between functional components and class components in React?
+What is the purpose of the "key" prop in React and why is it important?
+How does React handle state management?
+What is the significance of the "setState" method in React?
+What are React hooks? Provide examples of commonly used hooks.
+What is the role of the "componentDidMount" lifecycle method in React?
+Explain the concept of "props" in React.
+How can you optimize performance in a React application?
+What is the role of "shouldComponentUpdate" method in React?
+What are controlled and uncontrolled components in React?
+How would you handle form submissions in React?
+What is the purpose of "react-router" and how does it work?
+What is Redux and how does it relate to React?
+Explain the concept of React context and when it would be useful.
+What are React portals and why would you use them?
+How would you test a React component or application?
